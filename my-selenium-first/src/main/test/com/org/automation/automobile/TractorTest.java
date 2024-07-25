@@ -10,6 +10,10 @@ public class TractorTest {
         System.out.println("This is Read Method of Automobile Test");
     }
 
+    public void add(){
+        System.out.println("This is Add Method of Tractor Test");
+    }
+
     public void delete(){
         System.out.println("This is Delete Method of Automobile Test");
     }

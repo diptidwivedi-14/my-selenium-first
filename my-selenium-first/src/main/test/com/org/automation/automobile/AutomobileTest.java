@@ -1,5 +1,11 @@
 
 public class AutomobileTest
 {
-    System.out.println("This is an automobile Test");
+
+
+    public void display(){
+        System.out.println("This is an automobile Test");
+    }
+
+
 }

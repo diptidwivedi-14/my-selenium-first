@@ -2,5 +2,7 @@
 
 public class TractorTest {
 
-    System.out.println("This is My First Tractor Test File.");
+    public void display(){
+        System.out.println("This is an Tractor Test");
+    }
 }
